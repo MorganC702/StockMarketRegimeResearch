@@ -47,12 +47,12 @@ Key goals:
 
 ## Project Structure
 
-project/
+```project/
 ├── data/ # datasets & data processing 
 ├── models/ # baseline models and ensemble model
 ├── utils/ # Stationarity test function
 ├── results/ # evaluation outputs, confusion matrices
-└── README.md
+└── README.md```
 
 ---
 
