@@ -1,0 +1,36 @@
+
+https://fred.stlouisfed.org/series/HOUST
+
+As provided by the Census, start occurs when excavation begins for the footings or foundation of a building. All housing units in a multifamily building are defined as being started when this excavation begins. Beginning with data for September 1992, estimates of housing starts include units in structures being totally rebuilt on an existing foundation.
+
+https://fred.stlouisfed.org/series/EXHOSLUSM495S
+
+The National Association of Realtors monthly housing indicators are based on a representative sample of local boards and multiple listing services. Sales volume, inventory, and price levels for existing homes are measured for the US in aggregate and by census region. Existing homes, unlike new homes, are homes that are owned and occupied before coming onto the market.
+
+Existing-home sales measures the transaction volume of existing single-family homes, condos, and co-ops.
+
+https://fred.stlouisfed.org/series/HSN1F
+
+New One Family Houses Sold: United States (HSN1F)
+
+https://fred.stlouisfed.org/series/SPCS20RSA
+
+Copyright © 2016, S&P Dow Jones Indices LLC. All rights reserved. Reproduction of S&P Case-Shiller 20-City Home Price Index in any form is prohibited except with the prior written permission of S&P Dow Jones Indices LLC "S&P". S&P does not guarantee the accuracy, adequacy, completeness or availability of any information and is not responsible for any errors or omissions, regardless of the cause or for the results obtained from the use of such information. S&P DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall S&P be liable for any direct, indirect, special or consequential damages, costs, expenses, legal fees, or losses (including lost income or lost profit and opportunity costs) in connection with subscriber's or others' user of S&P Case-Shiller 20-City Home Price Index.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

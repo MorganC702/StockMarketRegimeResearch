@@ -1,0 +1,15 @@
+https://fred.stlouisfed.org/series/BOPGSTB
+Trade Balance: Goods and Services, Balance of Payments Basis (BOPGSTB)
+
+
+https://fred.stlouisfed.org/series/IEABC
+Calculated by subtracting the imports of goods and services and income payments (debits) from the exports of goods and services and income receipts (credits)
+
+https://fred.stlouisfed.org/series/DTWEXBGS
+Nominal Broad U.S. Dollar Index 
+
+https://fred.stlouisfed.org/series/IMPGS
+Imports of Goods and Services (IMPGS)
+
+https://fred.stlouisfed.org/series/NETEXP
+Net Exports of Goods and Services

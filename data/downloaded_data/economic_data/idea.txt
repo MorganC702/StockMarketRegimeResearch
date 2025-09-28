@@ -1,0 +1,1 @@
+Equity Risk Premium (proxy: S&P earnings yield vs 10Y) → can compute manually

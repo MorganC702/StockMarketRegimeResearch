@@ -1,0 +1,122 @@
+https://fred.stlouisfed.org/series/UNRATE
+
+The unemployment rate represents the number of unemployed as a percentage 
+of the labor force. Labor force data are restricted to people 16 years of 
+age and older, who currently reside in 1 of the 50 states or the District 
+of Columbia, who do not reside in institutions (e.g., penal and mental 
+facilities, homes for the aged), and who are not on active duty in the 
+Armed Forces.
+
+This rate is also defined as the U-3 measure of labor underutilization.
+
+The series comes from the 'Current Population Survey (Household Survey)'
+
+
+https://fred.stlouisfed.org/series/CIVPART
+
+The Labor Force Participation Rate is defined by the Current Population 
+Survey (CPS) as “the number of people in the labor force as a percentage 
+of the civilian noninstitutional population […] the participation rate 
+is the percentage of the population that is either working or actively 
+looking for work.”
+
+The Labor Force Participation Rate is collected in the CPS and published 
+by the BLS. It is provided on a monthly basis, so this data is used in 
+part by macroeconomists as an initial economic indicator of current labor 
+market trends. The labor force participation rate helps government agencies, 
+financial markets, and researchers gauge the overall health of the economy.
+
+Note that long-run changes in labor force participation may reflect secular 
+economic trends that are unrelated to the overall health of the economy. 
+For instance, demographic changes such as the aging of population can lead 
+to a secular increase of exits from the labor force, shrinking the labor 
+force and decreasing the labor force participation rate.
+
+
+https://fred.stlouisfed.org/series/PAYEMS
+
+All Employees: Total Nonfarm, commonly known as Total Nonfarm Payroll, is a 
+measure of the number of U.S. workers in the economy that excludes proprietors, 
+private household employees, unpaid volunteers, farm employees, and the 
+unincorporated self-employed. This measure accounts for approximately 80 percent 
+of the workers who contribute to Gross Domestic Product (GDP).
+
+This measure provides useful insights into the current economic situation because 
+it can represent the number of jobs added or lost in an economy. Increases in 
+employment might indicate that businesses are hiring which might also suggest that 
+businesses are growing. Additionally, those who are newly employed have increased 
+their personal incomes, which means (all else constant) their disposable incomes 
+have also increased, thus fostering further economic expansion.
+
+Generally, the U.S. labor force and levels of employment and unemployment are subject 
+to fluctuations due to seasonal changes in weather, major holidays, and the opening 
+and closing of schools. The Bureau of Labor Statistics (BLS) adjusts the data to 
+offset the seasonal effects to show non-seasonal changes: for example, women's 
+participation in the labor force; or a general decline in the number of employees, a 
+possible indication of a downturn in the economy. To closely examine seasonal and 
+non-seasonal changes, the BLS releases two monthly statistical measures: the 
+seasonally adjusted All Employees: Total Nonfarm (PAYEMS) and All Employees: Total 
+Nonfarm (PAYNSA), which is not seasonally adjusted.
+
+
+https://fred.stlouisfed.org/series/AWHAETP
+
+Average weekly hours relate to the average hours per worker for which pay was received 
+and is different from standard or scheduled hours. Factors such as unpaid absenteeism, 
+labor turnover, part-time work, and stoppages cause average weekly hours to be lower 
+than scheduled hours of work for an establishment. Group averages further reflect 
+changes in the workweek of component industries. Average weekly hours are the total 
+weekly hours divided by the employees paid for those hours.
+
+
+https://fred.stlouisfed.org/series/CES0500000003
+
+The Average Hourly Earnings of All Private Employees is a measure of the average hourly 
+earnings of all private employees on a “gross” basis, including premium pay for overtime 
+and late-shift work. These differ from wage rates in that average hourly earnings measure 
+the actual return to a worker for a set period of time, rather than the amount contracted 
+for a unit of work, the wage rate. This measure excludes benefits, irregular bonuses, 
+retroactive pay, and payroll taxes paid by the employer.
+
+Average Hourly Earnings are collected in the Current Employment Statistics (CES) program and 
+published by the BLS. It is provided on a monthly basis, so this data is used in part by 
+macroeconomists as an initial economic indicator of current trends. Progressions in earnings 
+specifically help policy makers understand some of the pressures driving inflation.
+
+It is important to note that this series measures the average hourly earnings of the pool 
+of workers in each period. Thus, changes in average hourly earnings can be due to either 
+changes in the set of workers observed in a given period, or due to changes in earnings. 
+For instance, in recessions that lead to the disproportionate increase of unemployment in 
+lower-wage jobs, average hourly earnings can increase due to changes in the pool of workers 
+rather than due to the widespread increase of hourly earnings at the worker-level.
+
+
+https://fred.stlouisfed.org/series/ICSA
+
+An initial claim is a claim filed by an unemployed individual after a separation from an employer. 
+The claim requests a determination of basic eligibility for the Unemployment Insurance program.
+
+
+https://fred.stlouisfed.org/series/CCSA
+
+Continued claims, also referred to as insured unemployment, is the number of people who have 
+already filed an initial claim and who have experienced a week of unemployment and then 
+filed a continued claim to claim benefits for that week of unemployment. Continued claims 
+data are based on the week of unemployment, not the week when the initial claim was filed.
+
+
+https://fred.stlouisfed.org/series/JTSJOL
+
+Total Nonfarm Job Openings are a measure of all jobs that are not filled on the last business 
+day of the month. A job is considered open if a specific position exists and there is work 
+available for it, the job can be started within 30 days, and there is active recruiting for 
+the position.
+
+Total Nonfarm Job Openings are measured by the Job Openings and Labor Turnover Survey (JOLTS) 
+and published by the Bureau of Labor Statistics (BLS). These data are a unique economic indicator 
+of unmet demand for labor and labor shortages. Economists, government officials, and researchers 
+use Job Openings as a measure of tightness within job markets.
+
+Note that the set of available job openings may decline because openings become filled, or 
+because previous openings are removed without filling positions.
+
