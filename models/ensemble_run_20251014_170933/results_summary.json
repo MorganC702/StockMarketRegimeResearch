@@ -1,0 +1,16 @@
+{
+    "accuracy": 0.3016,
+    "auc_ovr": 0.7011,
+    "precision": 0.2754,
+    "weights": [
+        5,
+        3,
+        4,
+        1,
+        4,
+        5,
+        1,
+        1
+    ],
+    "combined_auc_precision": 0.4883
+}
