@@ -96,9 +96,10 @@ project/
 14. /Results/
 
 ## Key Ensemble Results
-- Ensemble model achieved **AUC ≈ ...** on test data.
-- Confidence decile analysis shows strong calibration in top 20% predictions.
-- Regime prediction recall improved over baseline models.
+- Ensemble model achieved **AUC ≈ 0.7011** on test data.
+- Confidence decile analysis shows strong calibration in top 25% predictions.
+- Accuracy:  0.3016
+- Regime prediction accuract improved over baseline models.
 
 --- 
 
