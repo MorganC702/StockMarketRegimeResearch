@@ -10,6 +10,10 @@ A research project exploring machine learning methods to **predict market regime
 
 ---
 
+## Youtube Presentation
+
+https://www.youtube.com/watch?v=7aPfKNNUnf0
+
 ## Overview
 
 This repository contains research code for downloading data, cleaning data, feature engineering and feature reduction along with mahcine learning experiments aimed at forecasting **future market regimes** defined by combinations of return distributions and volatility measures.
