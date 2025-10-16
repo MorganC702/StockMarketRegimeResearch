@@ -2,11 +2,11 @@
 
 A research project exploring machine learning methods to **predict market regimes** using a combination of:
 
-- **Macroeconomic indicators from FRED.gov**
+- **Macroeconomic indicators from FRED.gov.**
 
-- **Foreign Currencies data from Yahoo Finance (yfinance)**
+- **Foreign Currencies data from Yahoo Finance (yfinance)/**
 
-- **Historical data for the S&P 500 from Polygon.io**
+- **Historical data for the S&P 500 from Polygon.io.**
 
 ---
 
@@ -16,13 +16,13 @@ https://www.youtube.com/watch?v=7aPfKNNUnf0
 
 ## Overview
 
-This repository contains research code for downloading data, cleaning data, feature engineering and feature reduction along with mahcine learning experiments aimed at forecasting **future market regimes** defined by combinations of return distributions and volatility measures.
+This repository contains research code for downloading data, cleaning data, feature engineering and feature reduction, along with machine learning experiments aimed at forecasting **future market regimes** defined by combinations of return distributions and volatility measures.
 
 
 Key goals:
 - Predict the **S&P 500 regime t+3 days ahead**.
 - Compare and ensemble multiple models (K-Nearest Neighbors, Support Vector Machine, Random Forrest, etc.).
-- Analyze confidence and performance overall and across different regime types.
+- Analyze confidence and performances across models.
 
 ---
 
@@ -36,11 +36,11 @@ Key goals:
 2. **Feature Engineering**
    - Rolling windows and lagged features
    - Regime labeling 
-   - Normalization / Stationarity conversion
+   - Normalization & Stationarity conversion
    - Feature reduction techniques
 
 3. **Modeling Approach**
-   - Baseline models: XGBoost, Random Forest, Extra Trees, MLP, Logistic Regression, Support Vector Classifier, Linear Discriminate Analysis, K-Nearest Neighbors
+   - Baseline models: XGBoost, Random Forest, Extra Trees, Multi-Layer-Perceptron, Logistic Regression, Support Vector Classifier, Linear Discriminate Analysis, K-Nearest Neighbors
    - Ensemble: Soft voting + weight optimization
 
 4. **Evaluation**
@@ -86,8 +86,8 @@ project/
 
 5. /models/***extra_tree.ipynb***
 6. /models/***knn.ipynb***
-7. /models/***knn.ipynb***
-8. /models/***lda.ipynb***
+7. /models/***lda.ipynb*** 
+8. /models/***log_reg.ipynb***
 9. /models/***mlp.ipynb***
 10. /models/***random_forrest.ipynb***
 11. /models/***svc.ipynb***
@@ -97,12 +97,12 @@ project/
 
 **Intermediat results saved in results directory**
 
-14. /Results/
+1. /Results/
 
 ## Key Ensemble Results
 - Ensemble model achieved **AUC ≈ 0.6863** on test data.
 - Confidence decile analysis shows strong calibration in top 25% predictions.
-- Ensemble model achieved **Accuracy ≈0.3158**
+- Ensemble model achieved **Accuracy ≈ 0.3158** on test data.
 --- 
 
 ### Recommended Citation: 
